@@ -1,5 +1,4 @@
-# Christmas_2022_PCB
-Christmas ornament PCB 2022
+# Christmas ornament PCB 2022
 
 A small project to refine my PCB design and C programming skills
 
