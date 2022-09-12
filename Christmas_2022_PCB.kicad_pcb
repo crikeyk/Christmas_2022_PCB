@@ -931,7 +931,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "C:/Users/User/Downloads/129893242-3-48037-1000/144137.stp"
+    (model "${KIPRJMOD}/3D models/129893242-3-48037-1000/144137.stp"
       (offset (xyz 1.5 0 0.75))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -90))
