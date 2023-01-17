@@ -2,14 +2,6 @@
 
 A small project to refine my PCB design and C programming skills
 
-## Final Product
-
-<img align="centre" width="500" src="./images/20221012_190536.jpg">
-
-## "Production run"
-
-<img align="centre" width="500" src="./images/20221124_133624.jpg">
-
 ## Front View
 
 <img align="centre" width="500" src="./images/3D_front.PNG">
@@ -25,3 +17,11 @@ A small project to refine my PCB design and C programming skills
 
 ## Unpopulated PCB
 <img align="centre" width="500" src="./images/footprint.PNG">
+
+## Final Product
+
+<img align="centre" width="500" src="./images/20221012_190536.jpg">
+
+## "Production run"
+
+<img align="centre" width="500" src="./images/20221124_133624.jpg">
